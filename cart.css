@@ -1,0 +1,18 @@
+#cat{
+    display: flex;
+    justify-content: space-between;
+}
+h4{
+    margin-right: 30px;
+}
+button{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+}
+#checkoutBtn{
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 30px;
+}

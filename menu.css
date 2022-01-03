@@ -1,0 +1,13 @@
+#cart{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    margin-right: 40px;
+}
+button{
+    background-color: green;
+    color: white;
+    height: 30px;
+    border-radius: 4px;
+}
